@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Button 按钮
 
 常用操作按钮

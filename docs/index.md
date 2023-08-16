@@ -6,7 +6,7 @@ hero:
   text: xiaodi个人组件库
   tagline: Lorem ipsum...
   image:
-    src: /niuniu.png
+    src: /logo.png
     alt: VitePress
   actions:
     - theme: brand
