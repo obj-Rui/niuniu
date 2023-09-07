@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "niuniu-ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -46,5 +46,8 @@
     "@commitlint/cli": "17.0.2",
     "@commitlint/config-conventional": "17.0.2",
     "vue": "^3.3.4"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
